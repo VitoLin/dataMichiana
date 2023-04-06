@@ -2,65 +2,11 @@
 	{
 		"metric": "m1",
 		"category": "test",
-		"label": "County Fips",
-		"title": "County Fips",
+		"label": "ids",
+		"title": "ids",
 		"sum": true,
-		"subtitle": "County Fips",
-		"related": []
-	},
-	{
-		"metric": "m2",
-		"category": "test",
-		"label": "Children 5-17 in poverty",
-		"title": "Children 5-17 in poverty",
-		"sum": true,
-		"subtitle": "Children 5-17 in poverty",
-		"related": []
-	},
-	{
-		"metric": "m3",
-		"category": "test",
-		"label": "Population Estimate",
-		"title": "Population Estimate",
-		"sum": true,
-		"subtitle": "Population Estimate",
-		"related": []
-	},
-	{
-		"metric": "m4",
-		"category": "test",
-		"label": "Average Meal Cost ($)",
-		"title": "Average Meal Cost ($)",
-		"sum": true,
-		"subtitle": "Average Meal Cost ($)",
-		"related": []
-	},
-	{
-		"metric": "m5",
-		"category": "test",
-		"label": "Additional Money Required to Meet Food Needs ($ Millions)",
-		"title": "Additional Money Required to Meet Food Needs ($ Millions)",
-		"sum": true,
-		"subtitle": "Additional Money Required to Meet Food Needs ($ Millions)",
-		"related": []
-	},
-	{
-		"metric": "m6",
-		"category": "test",
-		"label": "Food Insecurity Rates",
-		"title": "Food Insecurity Rates",
-		"sum": true,
-		"subtitle": "Food Insecurity Rates",
-		"related": []
-	},
-    {
-		"metric": "m7",
-		"category": "test",
-		"label": "Children in Need of Services (CHINS)",
-		"title": "Children in Need of Services (CHINS)",
-		"sum": true,
-		"subtitle": "Children in Need of Services (CHINS)",
+		"subtitle": "ids",
 		"related": []
 	}
-
+	
 ]
