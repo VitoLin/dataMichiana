@@ -7,6 +7,86 @@
 		"sum": true,
 		"subtitle": "ids",
 		"related": []
+	},
+	{
+		"metric": "m2",
+		"category": "test",
+		"label": "Population Density (Per Sq. Mile)",
+		"title": "Population Density (Per Sq. Mile)",
+		"sum": true,
+		"subtitle": "Population Density (Per Sq. Mile)",
+		"related": []
+	},
+	{
+		"metric": "m3",
+		"category": "test",
+		"label": "Average Household Size",
+		"title": "Average Household Size",
+		"sum": true,
+		"subtitle": "Average Household Size",
+		"related": []
+	},
+	{
+		"metric": "m4",
+		"category": "test",
+		"label": "Population",
+		"title": "Population",
+		"sum": true,
+		"subtitle": "Population",
+		"related": []
+	},
+	{
+		"metric": "m5",
+		"category": "test",
+		"label": "Population 25 Years and Over: Less than High School",
+		"title": "Population 25 Years and Over: Less than High School",
+		"sum": true,
+		"subtitle": "Population 25 Years and Over: Less than High School",
+		"related": []
+	},
+	{
+		"metric": "m6",
+		"category": "test",
+		"label": "Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)",
+		"title": "Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)",
+		"sum": true,
+		"subtitle": "Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)",
+		"related": []
+	},
+	{
+		"metric": "m7",
+		"category": "test",
+		"label": "Population 25 Years and Over: Less than High School",
+		"title": "Population 25 Years and Over: Less than High School",
+		"sum": true,
+		"subtitle": "Population 25 Years and Over: Less than High School",
+		"related": []
+	},
+	{
+		"metric": "m8",
+		"category": "test",
+		"label": "Population Density",
+		"title": "Population Density",
+		"sum": true,
+		"subtitle": "Population Density",
+		"related": []
+	},
+	{
+		"metric": "m9",
+		"category": "test",
+		"label": "% Population 25 Years and Over: Less than High School",
+		"title": "% Population 25 Years and Over: Less than High School",
+		"sum": true,
+		"subtitle": "% Population 25 Years and Over: Less than High School",
+		"related": []
+	},
+	{
+		"metric": "m10",
+		"category": "test",
+		"label": "Population",
+		"title": "Population",
+		"sum": true,
+		"subtitle": "Population",
+		"related": []
 	}
-	
 ]
