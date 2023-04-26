@@ -8,7 +8,7 @@ A dashboard for community data and health. See our [demo site](http://mcmap.org/
 This project requires [git](https://git-scm.com/) and [NodeJS](https://nodejs.org).
 
 ``` bash
-git clone hgit@github.com:VitoLin/dataMichiana.git dashboard
+git clone git@github.com:VitoLin/dataMichiana.git dashboard
 cd dashboard
 npm install
 npm run prebuild
