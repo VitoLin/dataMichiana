@@ -10,83 +10,254 @@
 	},
 	{
 		"metric": "m2",
-		"category": "test",
-		"label": "Population Density (Per Sq. Mile)",
-		"title": "Population Density (Per Sq. Mile)",
+		"category": "general",
+		"label": "PercentPop16to19NotInSchool",
+		"title": "PercentPop16to19NotInSchool",
 		"sum": true,
-		"subtitle": "Population Density (Per Sq. Mile)",
+		"subtitle": "PercentPop16to19NotInSchool",
 		"related": []
 	},
 	{
 		"metric": "m3",
-		"category": "test",
-		"label": "Average Household Size",
-		"title": "Average Household Size",
+		"category": "general",
+		"label": "AvgHouseholdIncome",
+		"title": "AvgHouseholdIncome",
 		"sum": true,
-		"subtitle": "Average Household Size",
+		"subtitle": "AvgHouseholdIncome",
 		"related": []
 	},
 	{
 		"metric": "m4",
-		"category": "test",
-		"label": "Population",
-		"title": "Population",
+		"category": "general",
+		"label": "HighestEdAttainmentPercentPopOver25LessThanHS",
+		"title": "HighestEdAttainmentPercentPopOver25LessThanHS",
 		"sum": true,
-		"subtitle": "Population",
+		"subtitle": "HighestEdAttainmentPercentPopOver25LessThanHS",
 		"related": []
 	},
 	{
 		"metric": "m5",
-		"category": "test",
-		"label": "Population 25 Years and Over: Less than High School",
-		"title": "Population 25 Years and Over: Less than High School",
-		"sum": true,
-		"subtitle": "Population 25 Years and Over: Less than High School",
+		"category": "general",
+		"label": "PerCapitaIncome",
+		"title": "PerCapitaIncome",
+		"sum": false,
+		"subtitle": "PerCapitaIncome",
 		"related": []
 	},
 	{
 		"metric": "m6",
-		"category": "test",
-		"label": "Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)",
-		"title": "Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)",
-		"sum": true,
-		"subtitle": "Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)",
+		"category": "general",
+		"label": "AvgHouseholdSize",
+		"title": "AvgHouseholdSize",
+		"sum": false,
+		"subtitle": "AvgHouseholdSize",
 		"related": []
 	},
 	{
 		"metric": "m7",
-		"category": "test",
-		"label": "Population 25 Years and Over: Less than High School",
-		"title": "Population 25 Years and Over: Less than High School",
-		"sum": true,
-		"subtitle": "Population 25 Years and Over: Less than High School",
+		"category": "general",
+		"label": "PopulationDensityPerSqMile",
+		"title": "PopulationDensityPerSqMile",
+		"sum": false,
+		"subtitle": "PopulationDensityPerSqMile",
 		"related": []
 	},
 	{
 		"metric": "m8",
-		"category": "test",
-		"label": "Population Density",
-		"title": "Population Density",
-		"sum": true,
-		"subtitle": "Population Density",
-		"related": []
-	},
-	{
-		"metric": "m9",
-		"category": "test",
-		"label": "% Population 25 Years and Over: Less than High School",
-		"title": "% Population 25 Years and Over: Less than High School",
-		"sum": true,
-		"subtitle": "% Population 25 Years and Over: Less than High School",
-		"related": []
-	},
-	{
-		"metric": "m10",
-		"category": "test",
+		"category": "general",
 		"label": "Population",
 		"title": "Population",
 		"sum": true,
 		"subtitle": "Population",
+		"related": []
+	},
+	{
+		"metric": "m9",
+		"category": "general",
+		"label": "PercentageOfHouseholdsWithLessThan10KIncome",
+		"title": "PercentageOfHouseholdsWithLessThan10KIncome",
+		"sum": false,
+		"subtitle": "PercentageOfHouseholdsWithLessThan10KIncome",
+		"related": []
+	},
+	{
+		"metric": "m10",
+		"category": "general",
+		"label": "UnemploymentRateForCivPopLaborForce16Up",
+		"title": "UnemploymentRateForCivPopLaborForce16Up",
+		"sum": false,
+		"subtitle": "UnemploymentRateForCivPopLaborForce16Up",
+		"related": []
+	},
+	{
+		"metric": "m11",
+		"category": "general",
+		"label": "ChildrenLivingWithSingleParents",
+		"title": "ChildrenLivingWithSingleParents",
+		"sum": true,
+		"subtitle": "ChildrenLivingWithSingleParents",
+		"related": []
+	},
+	{
+		"metric": "m12",
+		"category": "general",
+		"label": "HouseholdsWithSSIncome",
+		"title": "HouseholdsWithSSIncome",
+		"sum": true,
+		"subtitle": "HouseholdsWithSSIncome",
+		"related": []
+	},
+	{
+		"metric": "m13",
+		"category": "household",
+		"label": "% Households: $40,000 to $44,999",
+		"title": "% Households: $40,000 to $44,999",
+		"sum": true,
+		"subtitle": "% Households: $40,000 to $44,999",
+		"related": []
+	},
+	{
+		"metric": "m14",
+		"category": "household",
+		"label": "% Households: $125,000 to $149,999",
+		"title": "% Households: $125,000 to $149,999",
+		"sum": true,
+		"subtitle": "% Households: $125,000 to $149,999",
+		"related": []
+	},
+	{
+		"metric": "m15",
+		"category": "household",
+		"label": "% Households: $20,000 to $24,999",
+		"title": "% Households: $20,000 to $24,999",
+		"sum": true,
+		"subtitle": "% Households: $20,000 to $24,999",
+		"related": []
+	},
+	{
+		"metric": "m16",
+		"category": "household",
+		"label": "Households",
+		"title": "Households",
+		"sum": true,
+		"subtitle": "Households",
+		"related": []
+	},
+	{
+		"metric": "m17",
+		"category": "household",
+		"label": "% Households: $30,000 to $34,999",
+		"title": "% Households: $30,000 to $34,999",
+		"sum": true,
+		"subtitle": "% Households: $30,000 to $34,999",
+		"related": []
+	},
+	{
+		"metric": "m18",
+		"category": "household",
+		"label": "% Households: $15,000 to $19,999",
+		"title": "% Households: $15,000 to $19,999",
+		"sum": true,
+		"subtitle": "% Households: $15,000 to $19,999",
+		"related": []
+	},
+	{
+		"metric": "m19",
+		"category": "household",
+		"label": "% Households: $100,000 to $124,999",
+		"title": "% Households: $100,000 to $124,999",
+		"sum": true,
+		"subtitle": "% Households: $100,000 to $124,999",
+		"related": []
+	},
+	{
+		"metric": "m20",
+		"category": "household",
+		"label": "% Households: $45,000 to $49,999",
+		"title": "% Households: $45,000 to $49,999",
+		"sum": true,
+		"subtitle": "% Households: $45,000 to $49,999",
+		"related": []
+	},
+	{
+		"metric": "m21",
+		"category": "household",
+		"label": "% Households: $60,000 to $74,999",
+		"title": "% Households: $60,000 to $74,999",
+		"sum": true,
+		"subtitle": "% Households: $60,000 to $74,999",
+		"related": []
+	},
+	{
+		"metric": "m22",
+		"category": "household",
+		"label": "% Households: $150,000 to $199,999",
+		"title": "% Households: $150,000 to $199,999",
+		"sum": true,
+		"subtitle": "% Households: $150,000 to $199,999",
+		"related": []
+	},
+	{
+		"metric": "m23",
+		"category": "household",
+		"label": "% Households: $25,000 to $29,999",
+		"title": "% Households: $25,000 to $29,999",
+		"sum": true,
+		"subtitle": "% Households: $25,000 to $29,999",
+		"related": []
+	},
+	{
+		"metric": "m24",
+		"category": "household",
+		"label": "% Households: Less than $10,000",
+		"title": "% Households: Less than $10,000",
+		"sum": true,
+		"subtitle": "% Households: Less than $10,000",
+		"related": []
+	},
+	{
+		"metric": "m25",
+		"category": "household",
+		"label": "% Households: $35,000 to $39,999",
+		"title": "% Households: $35,000 to $39,999",
+		"sum": true,
+		"subtitle": "% Households: $35,000 to $39,999",
+		"related": []
+	},
+	{
+		"metric": "m26",
+		"category": "household",
+		"label": "% Households: $50,000 to $59,999",
+		"title": "% Households: $50,000 to $59,999",
+		"sum": true,
+		"subtitle": "% Households: $50,000 to $59,999",
+		"related": []
+	},
+	{
+		"metric": "m27",
+		"category": "household",
+		"label": "% Households: $200,000 or More",
+		"title": "% Households: $200,000 or More",
+		"sum": true,
+		"subtitle": "% Households: $200,000 or More",
+		"related": []
+	},
+	{
+		"metric": "m28",
+		"category": "household",
+		"label": "% Households: $75,000 to $99,999",
+		"title": "% Households: $75,000 to $99,999",
+		"sum": true,
+		"subtitle": "% Households: $75,000 to $99,999",
+		"related": []
+	},
+	{
+		"metric": "m29",
+		"category": "household",
+		"label": "% Households: $10,000 to $14,999",
+		"title": "% Households: $10,000 to $14,999",
+		"sum": true,
+		"subtitle": "% Households: $10,000 to $14,999",
 		"related": []
 	}
 ]
